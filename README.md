@@ -31,7 +31,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encon
 
 ---
 
-_Obrigado por visitar! 😊_
+_Obrigado por visitar! _
 
 
 
