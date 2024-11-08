@@ -2,6 +2,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará projetos que envolvem várias linguagens, frameworks e tecnologias que utilizo. Sinta-se à vontade para explorar!
 
+
 ## Linguagens e tecnologias que eu uso atualmente:
 
 ### 🌐 Frontend
@@ -14,11 +15,13 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encon
 ### 💻 Backend
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
 </div>
 
 ### 🗄 Banco de Dados
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp;
 </div>
 
 ## Sobre mim
@@ -31,9 +34,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encon
 
 ---
 
-_Obrigado por visitar! _
-
-
+_Obrigado por visitar!_
 
 <!---
 NicolasLnR/NicolasLnR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
